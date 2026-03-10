@@ -55,6 +55,9 @@ cover/
 *.mo
 *.pot
 
+# dataset csv
+zomato.csv
+
 # Django stuff:
 *.log
 local_settings.py
